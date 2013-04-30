@@ -2,7 +2,7 @@
 
 Version 2013.04.30
 
-This extension adds cookies from a Project Platen book into the param pool. I suggest including the [Globalparamloader](symphonyextensions.com/extensions/globalparamloader/) extension to add the parameters to all pages.
+This extension adds cookies from a Project Platen book into the global param pool.
 
 Javascript for using creating the parameters is in the [Project Platen workspace](https://github.com/ayellowraven/workspace).
 
