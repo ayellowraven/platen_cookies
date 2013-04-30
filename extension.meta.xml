@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="platen_cookies" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Project Platen Cookies</name>
+	<description>Adds book-related cookies to the param pool</description>
+	<repo type="github">https://github.com/ayellowraven/platen_cookies</repo>
+	<types>
+		<type>Other</type>
+	</types>
+	<authors>
+		<author>
+			<name github="ayellowraven" symphony="touchstone">ayellowraven</name>
+			<email>hell@ayellowraven.com</email>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2013-04-30" min="2.3" />
+	</releases>
+</extension>
